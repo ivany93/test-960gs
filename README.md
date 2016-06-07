@@ -1,1 +1,5 @@
-
+![Alt text](https://github.com/ivany93/test-960gs/blob/master/resources/img/1.PNG "1")
+![Alt text](https://github.com/ivany93/test-960gs/blob/master/resources/img/5.PNG "5")
+![Alt text](https://github.com/ivany93/test-960gs/blob/master/resources/img/2.PNG "2")
+![Alt text](https://github.com/ivany93/test-960gs/blob/master/resources/img/3.PNG "3")
+![Alt text](https://github.com/ivany93/test-960gs/blob/master/resources/img/4.PNG "4")
